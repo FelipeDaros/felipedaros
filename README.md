@@ -1,1 +1,1 @@
-Olá meu nome é Felipe, estou cursando Análise e Desenvolvimento de Sistema no Senac Criciúma.
+Olá meu nome é Felipe, estou cursando Análise e Desenvolvimento de Sistema no Senac Criciúma. Atualmente estou tentando ser um desenvolvedor FullStack JS, minha trajetória como desenvolvedor JS começou em 2020 na metade do ano.
