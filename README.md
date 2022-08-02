@@ -1,1 +1,1 @@
-Olá meu nome é Felipe tenho 23 anos e não estou trabalhando na área ainda, desde 2020 estou cursando Análise e Desenvolvimento de Sistemas no Senac Criciúma. Atualmente estou tentando ser um desenvolvedor FullStack JS, minha trajetória como desenvolvedor JS começou em 2020 na metade do ano.
+Olá meu nome é Felipe tenho 24 anos, atuo na área como desenvolvedor FullStack JS ['react', 'react-native', 'nodejs'] na empresa Eskimó Sorvetes, em 2020  comecei a cursar Análise e Desenvolvimento de Sistemas no Senac Criciúma e me formei em JULHO de 2022.
