@@ -1,2 +1,1 @@
-Olá meu nome é Felipe tenho 26 anos, atuo na área como desenvolvedor FullStack na Miner Tecnologia, em 2020  comecei a cursar Análise e Desenvolvimento de Sistemas no Senac Criciúma e me formei em JULHO de 2022.
-Também me eventuro em novas tecnologias.. estou estudando Flutter
+Olá meu nome é Felipe tenho 27 anos, atuo na área como desenvolvedor FullStack, em 2020  comecei a cursar Análise e Desenvolvimento de Sistemas no Senac Criciúma e me formei em JULHO de 2022. No fim de 2024 comecei a cursar a pós-graduação em Análise e Desenvolvimento de Sistemas, finalizei em março de 2025. Atualmente estou estudando Python.
